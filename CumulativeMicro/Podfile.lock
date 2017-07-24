@@ -1,0 +1,47 @@
+PODS:
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MMDrawerController (0.6.0):
+    - MMDrawerController/Core (= 0.6.0)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.6.0)
+    - MMDrawerController/MMDrawerVisualStates (= 0.6.0)
+    - MMDrawerController/Subclass (= 0.6.0)
+  - MMDrawerController/Core (0.6.0)
+  - MMDrawerController/MMDrawerBarButtonItem (0.6.0):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.6.0):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.6.0):
+    - MMDrawerController/Core
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - RESideMenu (4.0.7)
+  - Toast (3.1.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.2)
+  - MBProgressHUD (~> 1.0.0)
+  - MMDrawerController (~> 0.6.0)
+  - ReactiveCocoa (~> 2.5)
+  - RESideMenu (~> 4.0.7)
+  - Toast (~> 3.1.0)
+  - YYModel (~> 1.0.4)
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MMDrawerController: e3a54a5570388463ad3b36975251575b50c4e1a0
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: f81f053d627a4e1918a3235a0a1be1892769b36e
+
+COCOAPODS: 1.2.0
